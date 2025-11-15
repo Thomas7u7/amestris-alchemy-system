@@ -235,10 +235,5 @@ Base de datos: PostgreSQL 15
 Proxy: Nginx (integrado en Next.js)
 Persistencia: Docker Volumes
 
-Temática y Diseño
-El sistema mantiene fidelidad al universo de Fullmetal Alchemist:
-Paleta de colores: Azules y dorados inspirados en Amestris
-Iconografía: Símbolos alquímicos y temática militar
-Terminología: Ley del Intercambio Equivalente, automails, transmutaciones
-Roles: Jerarquía militar del universo FMA
+
 
